@@ -6,9 +6,9 @@ Voting is a great power in the hands of citizens. Voting is an opportunity for c
 But where and how to register? 
 
 Don't worry, now you don't need to circle around government office. All you need is a proper internet connection and a device, because you can do it online at voter registration portal 🙌
-<p align="center"><img src="https://media1.giphy.com/media/rLevqFeA9IiHeNXKyA/200w.webp?cid=ecf05e47kz4k2qixvi3t7ruoeq3uogqyl1yhmacd88s4n8l2&rid=200w.webp&ct=g" width = 40%></p>
 
-## A sneak peek into what we have here🙈 :
+
+## A sneak peek into what we have here:
 
 <p align="center"><img src="Images/Loading_Page.jpeg" width=100%></p>
 <p align="center"><img src="Images/Login_Page.jpeg" width=100%></p>
